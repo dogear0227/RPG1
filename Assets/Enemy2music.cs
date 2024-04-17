@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemymusic : MonoBehaviour
+public class Enemy2music : MonoBehaviour
 {
     private AudioSource audioSource;
 
